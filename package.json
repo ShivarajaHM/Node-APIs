@@ -1,0 +1,23 @@
+{
+  "name": "node-apis",
+  "version": "1.0.0",
+  "description": "node APIs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivarajaHM/Node-APIs.git"
+  },
+  "author": "shivumgc@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShivarajaHM/Node-APIs/issues"
+  },
+  "homepage": "https://github.com/ShivarajaHM/Node-APIs#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
